@@ -12,13 +12,13 @@ Primer Curso del Grado Superior de Desarrollo de Aplicaciones Multiplataforma
     <a href="https://github.com/Olmedo30/Programacion-00-2023-2024">Programación</a>
   </li>
   <li>
-    <a href="">Lenguaje de marcas</a>
+    <a href="https://github.com/Olmedo30/LenguajeMarcas-00-2023-2024">Lenguaje de marcas</a>
   </li>
   <li>
-    <a href="">Entornos de desarrollo</a>
+    <a href="https://github.com/Olmedo30/EntornoDesarrollo-00-2023-2024">Entornos de desarrollo</a>
   </li>
   <li>
-    <a href="">Sistemás Informáticos</a>
+    <a href="https://github.com/Olmedo30/SistemasInformaticos-00-2023-2024">Sistemás Informáticos</a>
   </li>
   <li>
     <a href="">Formación y Orientación laboral</a>
